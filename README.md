@@ -1,3 +1,9 @@
+<h3>Steps to insure App Works well</h3>
+<p>1. Login Stripe</p>
+<p>2. Start Firebase emulator</p>
+<p>3. Login to firebase</p>
+
+
 <h3> To use amazon clone in your device follow these steps: </h3>
 <p>1. Download the code file as a zip</p>
 <p>2. Open folder in visual studio code</p>
